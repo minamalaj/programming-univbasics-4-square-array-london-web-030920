@@ -11,19 +11,5 @@ end
 =end
 
 def square_array(numbers)
-  counter = 0
-  sqr_numbers=[]
-  while numbers[counter] do
-    sqr_numbers<<def square_array(numbers)
-  counter = 0
-  sqr_numbers=[]
-  while numbers[counter] do
-    sqr_numbers<<numbers[counter]*numbers[counter]
-    counter += 1
-  end
-  sqr_numbers
-end*
-    counter += 1
-  end
-  sqr_numbers
-end
+counters = 0 
+squarearray = []
