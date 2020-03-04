@@ -12,4 +12,11 @@ end
 
 def square_array(numbers)
 counters = 0 
-squarearray = []
+newsquarearray = []
+while numbers[counters] do 
+  newsquarearray<<numbers[counter]*numbers[counter]
+  counter +=1
+end 
+sqr_numbers 
+end 
+  
